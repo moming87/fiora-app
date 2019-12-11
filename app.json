@@ -5,13 +5,13 @@
     "name": "chat",
     "icon": "./icon.png",
     "version": "0.5.0",
-    "description": "App for fiora. A online chatroom",
-    "slug": "fiora",
+    "description": "App for chat. A online chatroom",
+    "slug": "chat",
     "ios": {
-      "bundleIdentifier": "com.suisuijiang.fiora"
+      "bundleIdentifier": "com.moming.chat"
     },
     "android": {
-      "package": "com.suisuijiang.fiora"
+      "package": "com.com.moming.chat"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
