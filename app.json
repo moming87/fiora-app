@@ -2,7 +2,7 @@
   "expo": {
     "sdkVersion": "33.0.0",
     "privacy": "public",
-    "name": "fiora",
+    "name": "chat",
     "icon": "./icon.png",
     "version": "0.5.0",
     "description": "App for fiora. A online chatroom",
