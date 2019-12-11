@@ -12,7 +12,7 @@ export default {
     instance: socket,
     connect(host) {
         if (!host) {
-            host = 'https://fiora.suisuijiang.com';
+            host = 'https://chat.moming.win';
         }
         socket = new IO(host, options);
         newInstanceListener.forEach(callback => callback(socket));
